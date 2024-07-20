@@ -1,6 +1,6 @@
 # E-Commerce Sales Forecast Project for SPICED Academy
 
-This is an interactive dashboard application for analyzing and forecasting future product sales based on historical sales numbers within the context of e-commerce.
+This is an interactive dashboard application for analyzing and forecasting product sales using historical e-commerce data. Designed to provide dynamic visualizations and advanced predictive analytics, enhancing decision-making and strategic planning.
 The app uses the [XGBoost model](https://xgboost.readthedocs.io/en/stable/).
 
 To installed all required packages 
